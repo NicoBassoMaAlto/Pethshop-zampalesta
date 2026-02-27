@@ -1,0 +1,8 @@
+.navbar{
+    color: white;
+}
+body{
+background-image: url(/images/sfondo.png);
+background-attachment: fixed;
+    background-size: cover;
+}
