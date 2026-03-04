@@ -6,3 +6,33 @@ background-image: url(/images/sfondo.png);
 background-attachment: fixed;
     background-size: cover;
 }
+h1{
+    color: rgb(0, 5, 158);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.testo{
+    width: 800px;
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 15px;    
+}
+.tupper{
+    display: flex;
+    justify-content: end; 
+}
+p{
+    color:rgb(0, 0, 0);
+    font-style: italic;
+    font-weight: bold;
+
+}
+.card{
+    display: flex;
+    
+}
+.card-title{
+    color: rgb(0, 195, 255); 
+}
